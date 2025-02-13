@@ -187,8 +187,9 @@
   }
 
   body{
-    transform: translate(700px,300px);
+    transform: translate(0,180px);
     background-image: url(modern-background-with-lines.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-color:white;
   }
